@@ -1,0 +1,20 @@
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll.config
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.pdb
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.dll
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.pdb
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csprojAssemblyReference.cache
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CoreCompileInputs.cache
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CopyComplete
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.dll
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.pdb
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll.config
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.pdb
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.dll
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.pdb
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CopyComplete
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.dll
+C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.pdb
