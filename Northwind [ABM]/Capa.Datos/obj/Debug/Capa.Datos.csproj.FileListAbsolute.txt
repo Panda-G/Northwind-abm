@@ -18,3 +18,13 @@ C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.Core
 C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CopyComplete
 C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.dll
 C:\Users\Net\Desktop\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.pdb
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll.config
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.dll
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\bin\Debug\Capa.Datos.pdb
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.dll
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\bin\Debug\Entidades.pdb
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csprojAssemblyReference.cache
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CoreCompileInputs.cache
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.csproj.CopyComplete
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.dll
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Datos\obj\Debug\Capa.Datos.pdb
