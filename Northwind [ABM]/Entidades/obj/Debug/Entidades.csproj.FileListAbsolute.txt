@@ -16,3 +16,8 @@ D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb

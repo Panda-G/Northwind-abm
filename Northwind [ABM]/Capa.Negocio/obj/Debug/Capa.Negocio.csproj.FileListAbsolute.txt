@@ -34,3 +34,16 @@ D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Deb
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.csproj.CopyComplete
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.dll
 D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Capa.Datos.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Entidades.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\EntityFramework.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Capa.Datos.dll.config
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\Entidades.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\bin\Debug\EntityFramework.xml
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.csprojAssemblyReference.cache
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.csproj.CopyComplete
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
