@@ -1,0 +1,16 @@
+﻿
+*bnt(modificar y eliminar) tiene que estar 
+deshabilitados si no se selecciono algun registro		-		-	listo
+*Agregar exepciones		-		-		-		-		-		-	listo
+*controlar la entrada de datos	-		-		-		-		-	listo
+*controlar los update	-		-		-		-		-		-	listo
+
+*si se elimina un territorio, tener en cuenta que 
+existen empleados que poseen una FK de idTerritorio, 
+estas no se pueden borrar		-		-		-		-		-	falta notificar al usuario este problema.
+
+*cambiar [{int} TerritoryID] a {string}, falta	-		-		-	falta
+*cambiar [{int} Regionid] a {Region} Region		-		-		-	falta
+*agregar comentarios	-		-		-		-		-		-	listo
+*sql, controlar errores			-		-		-		-		-	listo
+*agregar boostrap		-		-		-		-		-		-	listo

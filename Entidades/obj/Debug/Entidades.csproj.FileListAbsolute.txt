@@ -1,0 +1,23 @@
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\bin\Debug\Entidades.dll
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\bin\Debug\Entidades.pdb
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
+D:\LAB .NET [NEORIS]\PRACTICA OBLIGATORIA Clase 5 (254)\Lab Unidad 4\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\bin\Debug\Entidades.dll
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
+C:\Users\Net\Desktop\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.dll
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.pdb
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
+D:\Mitsuha\Source\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\bin\Debug\Entidades.pdb
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.dll
+E:\Mitsuha\Repositorio\Northwind-abm\Northwind [ABM]\Entidades\obj\Debug\Entidades.pdb
